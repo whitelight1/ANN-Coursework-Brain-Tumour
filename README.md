@@ -12,6 +12,13 @@ Current discussion on recent trends and future aspects of the domain is also dis
 .
 .
 .
+Dataset URL for kaggle:
+ https://www.kaggle.com/datasets/fernando2rad/brain-tumor-mri-images-44c
+Alternatively dataset "archive.zip" is also attached to this repo..
+.
+.
+.
+.
 Output of the code:
  "ANN-result-class_dict.csv" is the output file for python notebook associated with the coursework - "ANN-Coursework-Brain-Tumor"
  
