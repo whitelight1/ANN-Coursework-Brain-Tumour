@@ -16,7 +16,7 @@
 #
 # Dataset URL for kaggle:
  <br> https://www.kaggle.com/datasets/fernando2rad/brain-tumor-mri-images-44c
-<br> Alternatively dataset "archive.zip" is also attached to this repo..
+<br>
 <br>
 <br>
 <br>
